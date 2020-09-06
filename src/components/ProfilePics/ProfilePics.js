@@ -11,7 +11,7 @@ const ProfilePics = () => {
     
     return (
         <div style={{marginRight: '20px'}} className="comment-image">
-            <img style={{borderRadius: '50%'}} src={image} alt=""/>
+            <img style={{borderRadius: '50%'}} src={image} alt="commentorPicture"/>
         </div>
     );
 };
